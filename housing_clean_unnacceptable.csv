@@ -1,0 +1,21 @@
+Province,Region,Year,Acceptable,total,owner_household,owner_household_first,owner_household_not_first,renter_household,renter_not_social
+Newfoundland and Labrador,Atlantic,2018,0,19.0,14.5,24.0,13.5,40,40
+Prince Edward Island,Atlantic,2018,0,25.0,20.0,24.0,19.4,39,39
+Nova Scotia,Atlantic,2018,0,25.0,19.2,17.0,19.5,44,44
+New Brunswick,Atlantic,2018,0,20.0,16.1,13.4,16.4,37,37
+Quebec,Central,2018,0,23.0,16.4,23.0,15.4,38,38
+Ontario,Central,2018,0,33.0,27.0,41.0,25.0,52,54
+Manitoba,Western,2018,0,30.0,24.0,39.0,21.0,52,53
+Saskatchewan,Western,2018,0,29.0,24.0,36.0,21.0,47,45
+Alberta,Western,2018,0,29.0,25.0,37.0,22.0,45,44
+British Columbia,Western,2018,0,35.0,29.0,35.0,28.0,48,47
+Newfoundland and Labrador,Atlantic,2021,0,18.0,12.6,10.9,12.8,39,37
+Prince Edward Island,Atlantic,2021,0,23.0,14.4,13.5,14.6,46,47
+Nova Scotia,Atlantic,2021,0,25.0,18.6,16.3,18.9,43,44
+New Brunswick,Atlantic,2021,0,19.5,15.4,20.0,14.7,34,33
+Quebec,Central,2021,0,23.0,16.5,18.5,16.3,38,38
+Ontario,Central,2021,0,33.0,26.0,39.0,24.0,55,56
+Manitoba,Western,2021,0,29.0,23.0,18.2,24.0,48,47
+Saskatchewan,Western,2021,0,25.0,21.0,33.0,19.0,41,40
+Alberta,Western,2021,0,28.0,22.0,36.0,20.0,46,45
+British Columbia,Western,2021,0,30.0,25.0,34.0,23.0,44,45
